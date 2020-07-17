@@ -1,8 +1,8 @@
-# A-Pathfinding-Visualisation-
+# A-Star-Pathfinding-Visualisation
 
 Created a A* Pathfinding Visualisation tool with Python, pygame, and queues.
 
-![alt text](![alt text](http://url/to/img.png))
+![alt text](![alt text](https://user-images.githubusercontent.com/65845077/87753838-234dd200-c821-11ea-8645-997ae4e031c2.png))
 
 Needed:
 ```
